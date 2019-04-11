@@ -1,0 +1,4 @@
+1. 分布式系统到底是什么？
+    “A distributeed system is one in which components located at networked computers communicate their actions only by passing messeages”
+    意思是： 首先分布式系统是位于集群中的，即至少3个计算机节点组成的。
+            第二：每个计算机节点之间是通过“消息”来连接通讯的。
